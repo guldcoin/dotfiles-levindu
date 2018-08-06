@@ -1,0 +1,7 @@
+[user]
+	username = levindu
+	name = Levin Du
+[commit]
+	gpgsign = true
+[aliases]
+	github = levindu
